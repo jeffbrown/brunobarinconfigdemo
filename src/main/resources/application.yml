@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: brunobarinconfigdemo
+bruno:
+  demo:
+    message: "This Message Is Defined In application.yml"
